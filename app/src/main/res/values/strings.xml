@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ImplementacionSpinner</string>
+    <string-array name="horario_de_clases">
+        <item>Matemáticas</item>
+        <item>Comunicacion y Lenguaje</item>
+        <item>Sociales</item>
+        <item>Musicas</item>
+        <item>Quimica</item>
+        <item>Fisica Fundamental</item>
+    </string-array>
+    <string-array name="dias_semana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
